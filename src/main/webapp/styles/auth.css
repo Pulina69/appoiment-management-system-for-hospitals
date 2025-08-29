@@ -1,0 +1,108 @@
+/* Authentication Pages Styles */
+.auth-card {
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 36px 32px;
+  border-radius: 14px;
+  box-shadow: 0 4px 24px rgba(44, 62, 80, 0.08), 0 1.5px 4px rgba(44, 62, 80, 0.04);
+  background-color: #fff;
+  margin-top: 40px;
+  transition: box-shadow 0.3s cubic-bezier(.4,0,.2,1), transform 0.2s cubic-bezier(.4,0,.2,1);
+}
+.auth-card:hover {
+  box-shadow: 0 8px 32px rgba(44, 62, 80, 0.13), 0 2px 8px rgba(44, 62, 80, 0.07);
+  transform: translateY(-2px) scale(1.01);
+}
+
+.auth-card h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #2c3e50;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #555;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  width: 100%;
+  padding: 10px 12px;
+  background: #f8f9fa;
+  border: 1.5px solid #e0e0e0;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: #3498db;
+  box-shadow: 0 0 0 2px rgba(52,152,219,0.08);
+  outline: none;
+}
+
+.form-actions {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.form-actions .btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  width: 100%;
+  border-radius: 6px;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  box-shadow: 0 1px 2px rgba(44,62,80,0.04);
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.1s;
+}
+.form-actions .btn:active {
+  transform: scale(0.97);
+}
+
+.auth-links {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.auth-links a {
+  color: #3498db;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.auth-links a:hover {
+  text-decoration: underline;
+}
+
+.reset-info {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #666;
+}
+
+.reset-info p {
+  margin-bottom: 10px;
+}
+
+/* Responsive Styles */
+@media (max-width: 500px) {
+  .auth-card {
+    padding: 16px 6px;
+    border-radius: 8px;
+  }
+}

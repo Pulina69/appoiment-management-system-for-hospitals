@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "username": "a",
+    "password": "a",
+    "fullName": "Admin User",
+    "email": "a",
+    "phone": "1234567890",
+    "role": "ADMIN",
+    "dateOfBirth": "1990-01-01",
+    "address": "123 Admin St",
+    "joinDate": "2023-01-01"
+  },
+  {
+    "id": "2",
+    "username": "jahan",
+    "password": "doc123",
+    "fullName": "Dr. Jahan",
+    "email": "jahan@hospital.com",
+    "phone": "2345678901",
+    "role": "DOCTOR",
+    "dateOfBirth": "1985-05-15",
+    "address": "456 Doctor Lane",
+    "joinDate": "2023-01-02"
+  },
+  {
+    "id": "3",
+    "username": "priyantha",
+    "password": "doc123",
+    "fullName": "Dr. Priyantha",
+    "email": "priyantha@hospital.com",
+    "phone": "3456789012",
+    "role": "DOCTOR",
+    "dateOfBirth": "1988-08-20",
+    "address": "789 Medical Ave",
+    "joinDate": "2023-01-03"
+  },
+  {
+    "id": "4",
+    "username": "ostin",
+    "password": "doc123",
+    "fullName": "Dr. Ostin",
+    "email": "ostin@hospital.com",
+    "phone": "4567890123",
+    "role": "DOCTOR",
+    "dateOfBirth": "1987-03-10",
+    "address": "321 Health St",
+    "joinDate": "2023-01-04"
+  },
+  {
+    "id": "5",
+    "username": "teran",
+    "password": "pat123",
+    "fullName": "Teran",
+    "email": "teran@email.com",
+    "phone": "5678901234",
+    "role": "PATIENT",
+    "dateOfBirth": "1995-06-25",
+    "address": "123 Patient Rd",
+    "joinDate": "2023-01-05"
+  },
+  {
+    "id": "6",
+    "username": "maldeniya",
+    "password": "pat123",
+    "fullName": "Maldeniya",
+    "email": "maldeniya@email.com",
+    "phone": "6789012345",
+    "role": "PATIENT",
+    "dateOfBirth": "1992-09-15",
+    "address": "456 Patient Ave",
+    "joinDate": "2023-01-06"
+  },
+  {
+    "id": "7",
+    "username": "sunil",
+    "password": "pat123",
+    "fullName": "Sunil",
+    "email": "sunil@email.com",
+    "phone": "7890123456",
+    "role": "PATIENT",
+    "dateOfBirth": "1990-12-30",
+    "address": "789 Patient St",
+    "joinDate": "2023-01-07"
+  },
+  {
+    "id": "8",
+    "username": "p",
+    "password": "p",
+    "fullName": "p",
+    "email": "p",
+    "phone": "5678901234",
+    "role": "PATIENT",
+    "dateOfBirth": "1995-06-25",
+    "address": "123 Patient Rd",
+    "joinDate": "2023-01-05"
+  },
+  {
+  "id": "9",
+  "username": "d",
+  "password": "d",
+  "fullName": "Dr. p",
+  "email": "d",
+  "phone": "4567890123",
+  "role": "DOCTOR",
+  "dateOfBirth": "1987-03-10",
+  "address": "321 Health St",
+  "joinDate": "2023-01-04"
+  },
+  {
+    "id": "10",
+    "username": "admin",
+    "password": "admin",
+    "fullName": "Admin User",
+    "email": "admin ",
+    "phone": "1234567890",
+    "role": "ADMIN",
+    "dateOfBirth": "1990-01-01",
+    "address": "123 Admin St",
+    "joinDate": "2023-01-01"
+  }
+] 
